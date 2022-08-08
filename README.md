@@ -7,7 +7,11 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+
 - https://www.mongodb.com/developer/topics/
+- https://mongodb.github.io/node-mongodb-native/4.8/
+- https://www.mongodb.com/docs/drivers/
+- https://www.mongodb.com/docs/drivers/node/current/quick-start/
 
 ## Author(s)
 
